@@ -46,6 +46,7 @@ This project demonstrates deploying an Amazon Prime clone using a set of DevOps 
      ```bash
      aws configure
      terraform init
+     terraform plan
      terraform apply --auto-approve
      ```
 
